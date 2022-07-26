@@ -1,0 +1,26 @@
+{
+  "name": "jest-api-testing",
+  "version": "1.0.0",
+  "description": "API testing project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "verbose": true
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/almeidatm/jest-api-testing.git"
+  },
+  "author": "almeidatm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/almeidatm/jest-api-testing/issues"
+  },
+  "homepage": "https://github.com/almeidatm/jest-api-testing#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "jest": "^28.1.3"
+  }
+}
